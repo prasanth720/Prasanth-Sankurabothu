@@ -57,4 +57,6 @@ Hi! I'm **Prasanth Sankurabothu**, a results-driven **Frontend Developer** with 
 ### 🎨 UI / Styling  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Angular Material](https://img.shields.io/badge/Angular_Material-1976D
+![Angular Material](https://img.shields.io/badge/Angular_Material-1976D2?style=for-the-badge&logo=angular&logoColor=white) 
+
+⭐ Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects.
