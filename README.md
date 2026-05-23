@@ -27,7 +27,7 @@ Hi! I'm **Prasanth Sankurabothu**, a results-driven **Frontend Developer** with 
 🔗 **Connect with me:**  
 - 🌐 **[Portfolio](https://store-ai-new.vercel.app/)**  
 - 💼 **[LinkedIn](https://www.linkedin.com/in/prasanth-sankurabothu-14274319a)**  
-- 📧 **prashanthmogulagani07@gmail.com**  
+- 📧 **prashanthsankurabothu@gmail.com**  
 
 <br />  
 
